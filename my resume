@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My resume</title>
+</head>
+<body bgcolor="white">
+<center>
+
+<h1><font color="green">My resume project</font></h1>
+
+<a href="my2x2picture.jpg"> <img src="my2x2picture.jpg" width="160" height="90" border="4"></a><br>
+
+<font face="century gothic" color="Black"><strong>Full Name: Reneephel Carla Rico</strong></font><br>
+</center>
+
+<h3><font color="black">OBJECTIVE:</font></h3>
+<p>To obtain a position that will enhance my abilities through performing my work with determination, with the opportunity for professional growth based on my performance and contribute to the advancement of the company.</p><br>
+
+<h3><font color="black">Educational Background: </font></h3>
+<p>Vocational 	 	- 	Center for Barista (January 29 - February 24, 2020) <br>
+College  	 	- 	University of the East Bachelor of Science in Tourism Management <br>
+Secondary 	 	- 	Child Jesus College<br>
+
+</p><br>
+<h3><font color="black">Work Experience: </font></h3>
+<p>White Tiger Trading  – Quezon City (December 2013 – April 2015) <br>
+<ul>
+<li><i>Strictly comply and perform very well in its tasks that are in accordance to its company policies and procedures.</i></li>
+<li><i>Give an accurate and even complete data that is necessary to the needs of the company. </i></li>
+<li><i>Knowledgeable in its work area and work load in delivering the best service to the company they belong. </i></li>
+</ul>	 	 	 
+</p><br>
+
+<p>C. Hipolito Trading (Dealer of San Miguel Corp.) – Quezon City (June 2017 - February 2019)<br>
+<ul>
+<li><i>Coordinating production workflow for one or multiple products.</i></li>
+<li><i>Planning and prioritizing operations to ensure maximum performance and minimum delay.</i></li>
+<li><i>Determining manpower, equipment and raw materials needed to cover production demand.</i></li>
+</ul>	 	 	 
+</p><br>
+
+<ul>
+<li><b><u>Skills:</u></b></li>
+<li><i>Highly skilled in maintaining files, and performing data entry, filling and faxing task.</i></li>
+<li><i>Well-versed in MS Office application and database.</i></li>
+<li><i>Accurate in math and currency.</i></li>
+<li><i>Able to work in flexible time.</i></li>
+<li><i>Create and maintain rapport with co-workers.</i></li>
+</ul>
+</body>
+</html>
+
